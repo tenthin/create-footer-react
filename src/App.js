@@ -1,9 +1,12 @@
 import React from 'react';
-
+import {FooterContainer} from './containers/footer'
 
 function App() {
   return (
-    <h1>Yoo</h1>
+    <>
+      <FooterContainer/>
+    </>
+    
   );
 }
 
